@@ -15,6 +15,7 @@ You may also need to install Angular CLI globally:
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Features
 
 I tried to cover most features as :
 
