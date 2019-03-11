@@ -15,20 +15,26 @@ You may also need to install Angular CLI globally:
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Features
 
 I tried to cover most features as :
+
 
 As a User I should be able to list the most starred Github repos that were created in the last 30 days.
             (bringing only repos of last 30 days and calculating the oldness publishing of each one) 
 
 As a User I should see the results as a list. One repository per row.
+
 As a User I should be able to see for each repo/row the following details :
+
 Repository name
+
 Repository description
+
 Number of stars for the repo.
+
 Number of issues for the repo.
+
 Username and avatar of the owner.
+
                 (As mentioned in description of test )
